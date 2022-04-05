@@ -12,3 +12,7 @@ const userName=prompt("Add your Name");
 const userSurname=prompt("Add your Surname");
 
 const userColor=prompt("Add your Favourite Color");
+
+const password=(userName+userSurname+userColor+"22")
+
+console.log(password);
