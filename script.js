@@ -15,4 +15,4 @@ const userColor=prompt("Add your Favourite Color");
 
 const password=(userName+userSurname+userColor+"22")
 
-console.log(password);
+document.getElementById("passcode").innerHTML=password
