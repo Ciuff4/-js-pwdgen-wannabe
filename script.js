@@ -11,4 +11,4 @@ const userName=prompt("Add your Name");
 
 const userSurname=prompt("Add your Surname");
 
-console.log(userSurname);
+const userColor=prompt("Add your Favourite Color");
