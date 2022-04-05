@@ -9,4 +9,6 @@ Creation password genarator:
 
 const userName=prompt("Add your Name");
 
-console.log(userName);
+const userSurname=prompt("Add your Surname");
+
+console.log(userSurname);
