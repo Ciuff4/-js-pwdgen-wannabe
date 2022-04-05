@@ -7,3 +7,6 @@ Creation password genarator:
 4.  Print password on the page
 */
 
+const userName=prompt("Add your Name");
+
+console.log(userName);
